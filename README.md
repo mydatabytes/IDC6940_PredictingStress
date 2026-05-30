@@ -1,9 +1,16 @@
-# Instructions
+# Predicting Stress Levels Using Wearable Health Metrics
 
-Create a GitHub page for the project
 
-## GitHub:
-#### 1. Create a GitHub account and Sign in
+## Project Overview
+  This project explores whether metrics of wearable health technology can be used to predict users stress levels.
+  Biometric data such as sleep quality, heart rate variability (HRV), activity levels, and other health indicators
+  will be utilized to investigate which factors are most strongly associated with stress.
+  
+  The project was completed as part of a graduate capstone in Data Science and focuses on applying statistical and machine learning methods to real-world health data.
+  
+  
+## Research Question
+  Can wearable 
 #### 2. Go to [https://github.com/capstone4ds/capstone4ds_template](https://github.com/capstone4ds/capstone4ds_template) and fork (create a copy to your GitHub)
 ![fork](fork.png)
 #### 3. Change the name of the repo to *IDC6940_GroupName*
