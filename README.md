@@ -10,10 +10,19 @@
   
   
 ## Research Question
-  Can wearable 
-#### 2. Go to [https://github.com/capstone4ds/capstone4ds_template](https://github.com/capstone4ds/capstone4ds_template) and fork (create a copy to your GitHub)
-![fork](fork.png)
-#### 3. Change the name of the repo to *IDC6940_GroupName*
+  Can biometric data from wearable devices be used to predict an individual's perceived stress level?
+  
+## Objectives
+  - Explore relationships between stress and wearable health metrics
+  - Identify the most important predictors of stress
+  - Compare predictive modeling approaches
+  - Communicate findings through data visualization and statistical analysis
+  
+## Dataset
+  Potential data sources include:
+    - [WESAD Dataset]
+    - [Health + Wearables + Stress/Sleep Tracking Dataset]
+    
 #### 4. Go to *Settings* -> *Pages* -> under *Branch* -> select *main*
 #### 5. Wait for a few seconds and refresh the page. You see the link of the page. 
 
