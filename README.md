@@ -20,18 +20,35 @@
   
 ## Dataset
   Potential data sources include:
-    - [WESAD Dataset]
-    - [Health + Wearables + Stress/Sleep Tracking Dataset]
-    
-#### 4. Go to *Settings* -> *Pages* -> under *Branch* -> select *main*
-#### 5. Wait for a few seconds and refresh the page. You see the link of the page. 
+    - [Health + Wearables + Stress/Sleep Tracking Dataset] (https://www.kaggle.com/datasets/mftnakrsu/health-wearables-stresssleep-tracking-syntc/data)
+  
+  Variables may include:
+    -Stress level
+    -Sleep score
+    -Sleep duration
+    -Heart rate
+    -Heart rate variability (HRV)
+    -Daily activity metrics
+    -Demographic information
+  
+## Methods
 
-## RStudio:
-#### 1. Go to RStudio
-#### 2. Create a Version Control Project and Clone the repo.
-#### 3. Commit and push to see changes on the website et Voilà!
+  Planned analyses include:
+    -Exploratory Data Analysis (EDA)
+    -Data visualization
+    -Multiple Linear Regression
+    -Regularized Regression (LASSO)
+    -Model evaluation and comparison
 
-More information:
-- [GitHub](https://happygitwithr.com/index.html)
-- [Video1 RStudio connection to GitHub](https://www.youtube.com/watch?v=MdmnE3AnkQE)
-- [Video2 RStudio connection to GitHub](https://www.youtube.com/watch?v=jN6tvgt3GK8)
+## Tools
+
+    - R
+    - RStudio
+    - GitHub
+    - Quarto
+    - tidyverse
+    - ggplot2
+
+## Status
+
+  Work In Progress
